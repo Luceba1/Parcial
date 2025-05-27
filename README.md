@@ -55,7 +55,7 @@ org.example.Main
    Para obtenerla:
    - Navegá hasta la carpeta `/data` del proyecto
    - Hacé clic derecho en `biblioteca.mv.db` → "Copiar como ruta"
-   - Pegala en la consola con el formato:
+   - Pegala en la consola con el formato (no debe tener las extensiones .mv.db):
 
 ```
 jdbc:h2:RUTA/AL/PROYECTO/data/biblioteca
