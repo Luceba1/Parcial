@@ -58,10 +58,10 @@ org.example.Main
    - Pegala en la consola con el formato:
 
 ```
-jdbc:h2:file:/RUTA/AL/PROYECTO/data/biblioteca
+jdbc:h2:RUTA/AL/PROYECTO/data/biblioteca
 ```
 
-(Ejemplo: `jdbc:h2:file:/C:/Users/Lucas/Desktop/ParcialNaveda/data/biblioteca`)
+(Ejemplo: `jdbc:h2:C:/Users/Lucas/Desktop/ParcialNaveda/data/biblioteca`)
 
 3. Usuario: `sa`  
    Contraseña: *(vacía)*  
