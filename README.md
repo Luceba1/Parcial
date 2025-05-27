@@ -79,7 +79,7 @@ SELECT * FROM libro;
 ## 👨‍💻 Autor
 
 **Lucas Pujada**  
-UTN FRM – Comisión 3
+UTN FRM – Comisión 1 PROG 1
 
 ---
 
