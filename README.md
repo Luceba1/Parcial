@@ -37,7 +37,7 @@ Este proyecto es una aplicación de consola desarrollada en Java que permite ges
 4. Ejecutar desde la clase principal:
 
 ```
-org.example.Main
+src/main/java/org/example/Main.java
 ```
 
 ✅ La base de datos se generará automáticamente en la carpeta:
