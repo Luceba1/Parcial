@@ -1,0 +1,11 @@
+2025-05-27 00:59:41,729 [main] INFO  Main - Inicio del sistema Biblioteca.
+2025-05-27 00:59:51,936 [main] INFO  AutorDAOImpl - Autor creado: Lucas Pujada
+2025-05-27 00:59:59,226 [main] INFO  AutorDAOImpl - Se listaron 5 autores
+2025-05-27 01:01:19,037 [main] INFO  Main - Inicio del sistema Biblioteca.
+2025-05-27 01:01:29,091 [main] INFO  AutorDAOImpl - Se listaron 0 autores
+2025-05-27 01:01:40,962 [main] INFO  AutorDAOImpl - Autor creado: Lucas Pujada
+2025-05-27 01:01:45,403 [main] INFO  AutorDAOImpl - Se listaron 1 autores
+2025-05-27 01:02:12,130 [main] INFO  LibroDAOImpl - Libro creado: Parcial de java
+2025-05-27 01:02:17,368 [main] INFO  Main - Aplicacion finalizada.
+2025-05-27 01:23:21,704 [main] INFO  Main - Inicio del sistema Biblioteca.
+2025-05-27 01:23:31,274 [main] INFO  Main - Aplicacion finalizada.
