@@ -1,6 +1,6 @@
-# 📚 Proyecto Final — Gestión de Biblioteca (Java + JDBC + H2)
+# 📚 Primer Parcial — Gestión de Biblioteca (Java + JDBC + H2)
 
-Este proyecto es una aplicación de consola desarrollada en Java que permite gestionar autores y libros con persistencia en base de datos H2. Es una solución completa y estructurada que cumple con los requisitos del parcial de programación.
+Este proyecto es una aplicación de consola desarrollada en Java que permite gestionar autores y libros con persistencia en base de datos H2.
 
 ---
 
@@ -17,7 +17,7 @@ Este proyecto es una aplicación de consola desarrollada en Java que permite ges
 
 ## 🛠️ Tecnologías utilizadas
 
-- Java 17+
+- Java
 - JDBC
 - Base de datos H2 (modo archivo)
 - Gradle
@@ -49,9 +49,8 @@ org.example.Main
 
 ## 🔍 Acceder a la base de datos desde la consola web de H2
 
-1. Ejecutá H2 Console (consola web) desde:  
-   `http://localhost:8082`
-
+1. Ejecutá H2 Console (consola web)
+   
 2. En el campo **JDBC URL**, pegá la ruta completa del archivo generado.  
    Para obtenerla:
    - Navegá hasta la carpeta `/data` del proyecto
